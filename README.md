@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Diksha 👋
 
-<!--
-**DikshaVerse/DikshaVerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer | Python | FastAPI | Machine Learning | IoT
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- **AI Email Assistant**  
+  LLM-powered email automation system that summarizes emails, performs sentiment analysis, and generates replies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Data Analysis API**  
+  FastAPI backend for dataset analytics using Pandas and NumPy.
+
+- **IoT Smart Farming System**  
+  Sensor-based environmental monitoring system using Arduino and ThingSpeak.
+
+- **Smart IoT Shopping Cart**  
+  RFID-based automated billing system for retail stores.
+
+## 🧠 Tech Stack
+Python • FastAPI • Pandas • NumPy • HuggingFace • Arduino • C++ • REST APIs
+
+## 📌 Currently Learning
+- RAG systems
+- LLM engineering
+- scalable AI systems
