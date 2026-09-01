@@ -1,4 +1,4 @@
-# Hi, I'm Diksha 👋
+# Hi, I'm Dikshaa 👋
 
 **AI Engineer | Python | FastAPI | Machine Learning | IoT**
 
